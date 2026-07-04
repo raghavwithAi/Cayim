@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "lib": ["deno.ns", "deno.window", "esnext"],
+    "types": []
+  },
+  "include": ["./functions/**/*.ts"]
+}
